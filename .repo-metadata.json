@@ -1,0 +1,16 @@
+{
+  "api_shortname": "admob",
+  "name_pretty": "AdMob API",
+  "product_documentation": "https://cloud.google.com/fixme",
+  "api_description": "you to manage your ads.",
+  "client_documentation": "https://cloud.google.com/java/docs/reference/google-admob/latest/overview",
+  "release_level": "preview",
+  "transport": "grpc",
+  "language": "java",
+  "repo": "googleapis/java-admob",
+  "repo_short": "java-admob",
+  "distribution_name": "com.google.cloud:google-admob",
+  "api_id": "ads.googleapis.com",
+  "library_type": "GAPIC_AUTO",
+  "requires_billing": true
+}
